@@ -2,6 +2,10 @@
 
 Two audience-specific views for the Northstar synthetic take-home case: Customer Account Health and Internal QBR. The internal view uses explicitly illustrative scenario inputs. All telemetry is synthetic.
 
+## Live demo
+
+[Open Northstar Account Intelligence](https://northstar-account-demo.streamlit.app/) — public, no sign-in required. Use **Dashboard view** to switch between **Customer Account Health** and **Internal QBR**.
+
 ## Run locally
 
 Python 3.11-3.14; dependencies pinned in requirements.txt.
